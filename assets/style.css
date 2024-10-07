@@ -69,6 +69,7 @@ body {
 #about {
 	display: flex;
 	background-color: #F6D2B8;
+	height: 100%;
 	padding-inline: 100px;
 	padding-block: 100px;
 	position: relative;
@@ -86,6 +87,7 @@ body {
 }
 
 .picture {
+	width: 100%;
 	flex: 1;
 	margin: 0 20px;
 	z-index: 0;
@@ -114,10 +116,6 @@ body {
 #about-me p {
 	width: 80%;
 	font-size: 1em;
-}
-
-#gallery {
-	/*	min-height: 100vh; */
 }
 .title{
 	text-align: center;
