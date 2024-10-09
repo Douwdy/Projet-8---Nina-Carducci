@@ -66,6 +66,12 @@ body {
 	height: 20px;
 }
 
+#header{
+	background: #F6D2B8;
+	width: 100%;
+	aspect-ratio: 2.16/1;
+}
+
 #about {
 	display: flex;
 	background-color: #F6D2B8;
